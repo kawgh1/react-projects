@@ -1,4 +1,0 @@
-[build]
-  command = "npm run build"
-  publish= "react-projects/react-todo/build"
-  base = "react-projects"
